@@ -37,6 +37,7 @@ Feel free to do whatever you want with the files. If you have any questions just
   <li>One of each <a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic. You need two of the feet (unless you want a lower angle)</li>
   <li>Plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
+  <li>Sockets and pins to socket the controller</li>
   <li>M2 Standoffs with a outside diameter of 3mm. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
   <li>M2 Hex socket button head bolts. Various lengths between 4-12mm. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li><a href="https://www.adafruit.com/product/2884" target="_blank">FeatherWing Proto board</a></li>
@@ -50,6 +51,10 @@ Feel free to do whatever you want with the files. If you have any questions just
 </ul>
 
 <h1>Firmware WIP</h1>
+
+<h1>Controller Assembly</h1>
+The controller, FeatherWing Proto and NeoPixel FeatherWing need assembling as pictured. I would advise socketing the controller and the ground and control pins that go to the NeoPixel FeatherWing. You can't socket the 5v connection as the pins don't line up so I have connected those with a short length of wire. The trace circled red needs cutting so the controller pins aren't shorted . The pads circled green need bridging with solder so that pin can be used to control the LEDs.
+<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Featherwing%20Assembly.jpg" alt="Controller Assembly">
 
 <h1>Handwired Matrix WIP</h1>
 
