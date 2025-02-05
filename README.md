@@ -26,7 +26,7 @@ Feel free to do whatever you want with the files. If you have any questions just
 
 <h1>Case Manufacturing</h1>
 <ul>
-  <li><a href="https://github.com/ElKinoflop/Vozvan/tree/main/Case%20Files" target="_blank">Case files</a></li>
+  <li><a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">Case files</a></li>
   <li>Designed to be cut from 3mm acrylic</li>
   <li>Note that acrylic sheets can vary in thickness even if they are listed as 3mm. I have found that Perspex® typically measures at 3-3.1mm whereas Xintao (which most Chinese suppliers seem to use) typically comes in at 2.6-2.7mm. This doesn't matter too much except for your switches will be much more visible with thinner sheets and it will be a tighter squeeze in the case for the wiring.</li>
   <li>Don't force the standoffs through if you find some of the standoffs too tight. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size. You shouldn't need to do this but there can be some manufacturing variance.</li>
