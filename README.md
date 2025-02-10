@@ -1,5 +1,5 @@
 # Blatherskite - Untested
-Stacked acrylic handwired 12.75u 40% keyboard with a push button and LED grid.
+Stacked acrylic handwired 12.75u 40% keyboard with a push button and LED grid. There are two versions, v1 or v2. The obvious difference is the component cover but the whole case has slightly different dimensions to accomodate it.
 
 <img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Blatherskite%20Render%20(1).png" alt="Blatherskite Render">
 
@@ -34,7 +34,7 @@ Feel free to do whatever you want with the files. If you have any questions just
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each <a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic. You need two of the feet (unless you want a lower angle)</li>
+  <li>One of each (either v1 or v2) <a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic. You need two of the feet (unless you want a lower angle)</li>
   <li>Plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>Sockets and pins to socket the controller</li>
