@@ -38,7 +38,7 @@ Feel free to do whatever you want with the files. If you have any questions just
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each (either v1 or v2) <a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic/metal. You need two of the feet (unless you want a lower angle) and two of 'Blatherskite v2 5-6 - Mid Middle-Upper.dxf' for v2</li>
+  <li>One of each (either v1 or v2) <a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic. There are images of one I got made from stacked steel/copper however really the bolt/standoff hole diameters need increasing by 0.2-0.5mm for metal (at least with LaserBoost). You need two of the feet (unless you want a lower angle) and two of 'Blatherskite v2 5-6 - Mid Middle-Upper.dxf' for v2</li>
   <li>Plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>Sockets and pins to socket the controller</li>
@@ -65,4 +65,4 @@ The controller, FeatherWing Proto and NeoPixel FeatherWing need assembling as pi
 <h1>Disclaimer</h1>
 Currently untested. You are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
 
-<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Blatherskite%20Render%20(2).png" alt="Blatherskite Render">
+<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/PXL_20250218_082327506.MP~2.jpg" alt="Blatherskite Photo">
