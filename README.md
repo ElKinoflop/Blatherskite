@@ -1,7 +1,9 @@
-# Blatherskite - Untested
-Stacked acrylic handwired 12.75u 40% keyboard with a push button and LED grid. There are two versions, v1 or v2. The obvious difference is the component cover but the whole case has slightly different dimensions to accomodate it.
+# Blatherskite
+Stacked acrylic/metal handwired 12.75u 40% keyboard with a push button and LED grid. There are two versions, v1 or v2. The obvious difference is the component cover but the whole case has slightly different dimensions to accomodate it.
 
-v1
+<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/PXL_20250221_104916242.MP-EDIT~2.jpg" alt="Blatherskite v2 Photo">
+
+v1 - Untested
 <img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Blatherskite%20Render%20(1).png" alt="Blatherskite v1 Render">
 
 v2
@@ -31,14 +33,14 @@ Feel free to do whatever you want with the files. If you have any questions just
 <h1>Case Manufacturing</h1>
 <ul>
   <li><a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">Case files</a></li>
-  <li>Designed to be cut from 3mm acrylic</li>
+  <li>Designed to be cut from 3mm acrylic. There are images of one I got made from stacked steel/copper however really the bolt/standoff hole diameters need increasing by 0.2-0.5mm for metal (at least with LaserBoost).</li>
   <li>Note that acrylic sheets can vary in thickness even if they are listed as 3mm. I have found that Perspex® typically measures at 3-3.1mm whereas Xintao (which most Chinese suppliers seem to use) typically comes in at 2.6-2.7mm. This doesn't matter too much except for your switches will be much more visible with thinner sheets and it will be a tighter squeeze in the case for the wiring.</li>
   <li>Don't force the standoffs through if you find some of the standoffs too tight. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size. You shouldn't need to do this but there can be some manufacturing variance.</li>
 </ul>
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each (either v1 or v2) <a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic. There are images of one I got made from stacked steel/copper however really the bolt/standoff hole diameters need increasing by 0.2-0.5mm for metal (at least with LaserBoost). You need two of the feet (unless you want a lower angle) and two of 'Blatherskite v2 5-6 - Mid Middle-Upper.dxf' for v2</li>
+  <li>One of each (either v1 or v2) <a href="https://github.com/ElKinoflop/Blatherskite/tree/main/case%20files" target="_blank">case layer</a> cut from 3mm acrylic. You need two of the feet (unless you want a lower angle) and two of 'Blatherskite v2 5-6 - Mid Middle-Upper.dxf' for v2</li>
   <li>Plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>Sockets and pins to socket the controller</li>
@@ -63,6 +65,6 @@ The controller, FeatherWing Proto and NeoPixel FeatherWing need assembling as pi
 <h1>Handwired Matrix WIP</h1>
 
 <h1>Disclaimer</h1>
-Currently untested. You are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
+V1 is currently untested. You are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
 
 <img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/PXL_20250218_082327506.MP~2.jpg" alt="Blatherskite Photo">
