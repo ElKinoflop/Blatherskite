@@ -62,6 +62,8 @@ Feel free to do whatever you want with the files. If you have any questions just
 The controller, FeatherWing Proto and NeoPixel FeatherWing need assembling as pictured. I would advise socketing the controller and the ground and control pins that go to the NeoPixel FeatherWing. You can't socket the 5v connection as the pins don't line up so I have connected those with a short length of wire. The trace circled red needs cutting so the controller pins aren't shorted . The pads circled green need bridging with solder so that pin can be used to control the LEDs.
 <img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Featherwing%20Assembly.jpg" alt="Controller Assembly">
 
+<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Blatherskite%20LED.gif" alt="LEDs">
+
 <h1>Disclaimer</h1>
 V1 is currently untested. You are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
 
