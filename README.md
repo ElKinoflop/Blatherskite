@@ -1,7 +1,7 @@
 # Blatherskite
 Stacked acrylic/metal handwired 12.75u 40% keyboard with a push button and LED grid. There are two versions, v1 or v2. The obvious difference is the component cover but the whole case has slightly different dimensions to accomodate it.
 
-<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/PXL_20250221_104916242.MP-EDIT~2.jpg" alt="Blatherskite v2 Photo">
+<img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/PXL_20250228_121140756.jpg" alt="Blatherskite v2 Photo">
 
 v1 - Untested
 <img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Blatherskite%20Render%20(1).png" alt="Blatherskite v1 Render">
@@ -56,7 +56,8 @@ Feel free to do whatever you want with the files. If you have any questions just
   <li><a href="https://www.aliexpress.com/item/1005004920346156.html" target="_blank">16mm momentary push button</a></li>
 </ul>
 
-<h1>Firmware WIP</h1>
+<h1>Firmware</h1>
+I used <a href="https://github.com/JanLunge/pog" target="_blank">POG</a> to create the firmware, it makes things super easy without any coding knowledge required
 
 <h1>Controller Assembly</h1>
 The controller, FeatherWing Proto and NeoPixel FeatherWing need assembling as pictured. I would advise socketing the controller and the ground and control pins that go to the NeoPixel FeatherWing. You can't socket the 5v connection as the pins don't line up so I have connected those with a short length of wire. The trace circled red needs cutting so the controller pins aren't shorted . The pads circled green need bridging with solder so that pin can be used to control the LEDs.
