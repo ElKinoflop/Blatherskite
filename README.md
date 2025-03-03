@@ -66,6 +66,6 @@ The controller, FeatherWing Proto and NeoPixel FeatherWing need assembling as pi
 <img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/BlatherskiteLED.gif" alt="LEDs">
 
 <h1>Disclaimer</h1>
-V1 is currently untested. You are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
+V1 is currently untested. With all versions you are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
 
 <img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/PXL_20250218_082327506.MP~2.jpg" alt="Blatherskite Photo">
