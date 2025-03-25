@@ -25,10 +25,13 @@ Feel free to do whatever you want with the files. If you have any questions just
 <img src="https://github.com/ElKinoflop/Blatherskite/blob/main/images/Blatherskite%20KLE.jpg" alt="Blatherskite Layout">
 
 <h1>KLE Raw Data</h1>
+
+```json
 [{a:7,w:1.5,h:2.75},"",{x:0.25,a:4},"Esc","Q","W","E","R","T","Y","U","I","O","P",{w:1.75},"Back<br>Space"],
 [{x:1.75,w:1.25},"Tab","A","S","D","F","G","H","J","K","L","@\n'",{w:1.5},"Enter"],
 [{x:1.75,w:1.75},"Shift","Z","X","C","V","B","N","M","<\n.",">\n.","Shift",{a:7},""],
 [{x:0.25},"",{x:0.5,a:4,w:1.25},"Hyper","Super",{w:1.25},"Meta",{a:7,w:2.75},"",{w:2.25},"",{a:4,w:1.25},"Hyper",{a:7},"","",""]
+```
 
 <h1>Case Manufacturing</h1>
 <ul>
