@@ -50,7 +50,7 @@ Feel free to do whatever you want with the files. If you have any questions just
   <li>M2 Standoffs with a outside diameter of 3mm. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
   <li>M2 Hex socket button head bolts. Various lengths between 4-12mm. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li><a href="https://www.adafruit.com/product/2884" target="_blank">FeatherWing Proto board</a></li>
-  <li>Adhesive gasket material. 4mm width. I used 2mm thickn gaskets but slightly thinner would be better.</li>
+  <li>Adhesive gasket material. 4mm width. I used 2mm thick gaskets but slightly thinner would be better.</li>
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>45x MX Switches</li>
   <li>45x 1N4148 Diodes (plus any extras if you have buttons/encoders in the middle)</li>
